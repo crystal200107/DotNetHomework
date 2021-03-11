@@ -1,0 +1,16 @@
+D:\VS\2.4\bin\Debug\net5.0\2.4.exe
+D:\VS\2.4\bin\Debug\net5.0\2.4.deps.json
+D:\VS\2.4\bin\Debug\net5.0\2.4.runtimeconfig.json
+D:\VS\2.4\bin\Debug\net5.0\2.4.runtimeconfig.dev.json
+D:\VS\2.4\bin\Debug\net5.0\2.4.dll
+D:\VS\2.4\bin\Debug\net5.0\ref\2.4.dll
+D:\VS\2.4\bin\Debug\net5.0\2.4.pdb
+D:\VS\2.4\obj\Debug\net5.0\2.4.csprojAssemblyReference.cache
+D:\VS\2.4\obj\Debug\net5.0\2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\2.4\obj\Debug\net5.0\2.4.AssemblyInfoInputs.cache
+D:\VS\2.4\obj\Debug\net5.0\2.4.AssemblyInfo.cs
+D:\VS\2.4\obj\Debug\net5.0\2.4.csproj.CoreCompileInputs.cache
+D:\VS\2.4\obj\Debug\net5.0\2.4.dll
+D:\VS\2.4\obj\Debug\net5.0\ref\2.4.dll
+D:\VS\2.4\obj\Debug\net5.0\2.4.pdb
+D:\VS\2.4\obj\Debug\net5.0\2.4.genruntimeconfig.cache
