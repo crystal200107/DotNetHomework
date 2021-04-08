@@ -1,0 +1,6 @@
+之前上交版本有很多细节没考虑到，参考群内上传代码进行了修改
+更新包括：
+orderService中运用Lambda表达式而非foreach进行查询获取订单
+各个类中增加了必要的异常机制
+对于goods类取消采用dictionary进行存储
+对orderDetails和Order类中的get，set内容进行了修改，使变量直接设置
