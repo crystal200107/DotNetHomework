@@ -1,0 +1,10 @@
+D:\VS\10.0\bin\Debug\10.0.exe.config
+D:\VS\10.0\bin\Debug\10.0.exe
+D:\VS\10.0\bin\Debug\10.0.pdb
+D:\VS\10.0\obj\Debug\10.0.csprojAssemblyReference.cache
+D:\VS\10.0\obj\Debug\_10._0.Form1.resources
+D:\VS\10.0\obj\Debug\_10._0.Properties.Resources.resources
+D:\VS\10.0\obj\Debug\10.0.csproj.GenerateResource.cache
+D:\VS\10.0\obj\Debug\10.0.csproj.CoreCompileInputs.cache
+D:\VS\10.0\obj\Debug\10.0.exe
+D:\VS\10.0\obj\Debug\10.0.pdb

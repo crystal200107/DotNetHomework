@@ -1,0 +1,10 @@
+D:\VS\9.0\bin\Debug\9.0.exe.config
+D:\VS\9.0\bin\Debug\9.0.exe
+D:\VS\9.0\bin\Debug\9.0.pdb
+D:\VS\9.0\obj\Debug\9.0.csprojAssemblyReference.cache
+D:\VS\9.0\obj\Debug\_9._0.Form1.resources
+D:\VS\9.0\obj\Debug\_9._0.Properties.Resources.resources
+D:\VS\9.0\obj\Debug\9.0.csproj.GenerateResource.cache
+D:\VS\9.0\obj\Debug\9.0.csproj.CoreCompileInputs.cache
+D:\VS\9.0\obj\Debug\9.0.exe
+D:\VS\9.0\obj\Debug\9.0.pdb
