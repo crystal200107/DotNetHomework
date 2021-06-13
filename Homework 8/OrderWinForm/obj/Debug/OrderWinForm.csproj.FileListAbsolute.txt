@@ -1,0 +1,17 @@
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.csprojAssemblyReference.cache
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.Form1.resources
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.Properties.Resources.resources
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.csproj.GenerateResource.cache
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.csproj.CoreCompileInputs.cache
+D:\VS\OrderWinForm\bin\Debug\OrderWinForm.exe.config
+D:\VS\OrderWinForm\bin\Debug\OrderWinForm.exe
+D:\VS\OrderWinForm\bin\Debug\OrderWinForm.pdb
+D:\VS\OrderWinForm\bin\Debug\5.0.exe
+D:\VS\OrderWinForm\bin\Debug\5.0.pdb
+D:\VS\OrderWinForm\bin\Debug\5.0.exe.config
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.csproj.CopyComplete
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.exe
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.pdb
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.Form2.resources
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.FormMain.resources
+D:\VS\OrderWinForm\obj\Debug\OrderWinForm.FormReload.resources
